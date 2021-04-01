@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-validation:2.3.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.3.9.RELEASE/1e537570657c317c411e34786240350ef2693d42/spring-boot-starter-validation-2.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.3.9.RELEASE/83ef6e5f0d40f6b9504c60ae4bc323fae3a22cfc/spring-boot-starter-validation-2.3.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
